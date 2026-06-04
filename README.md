@@ -110,8 +110,3 @@ For a detailed overview of the methodology, pipeline architecture, and results, 
     └── README.md                   # Original app-level docs
 ```
 
----
-
-## License
-
-This project was developed as part of the **MM226** course. Please contact the author before reuse.
